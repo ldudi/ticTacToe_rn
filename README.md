@@ -11,4 +11,4 @@ and tic tac toe is among of them
 
 This app is developed with Swift 4 and Xcode 10.
 
-All copyrights reserved © Copyright 2018
+All rights reserved © Copyright 2018
